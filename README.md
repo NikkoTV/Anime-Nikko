@@ -7,7 +7,7 @@
 </head>
 <body>
         <form action="">
-            <h1> Dremland Donation Section</h1>
+            <h1> NikkoTV Donation Section</h1>
             <p> Required Fields are Followed by * mark</p>
             <h2>Our Prime Memeber Information</h2>
             <p>Name : * <input type="text" name="name" required> </p>
