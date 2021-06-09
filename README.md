@@ -6,7 +6,7 @@
     <title>Donation</title>
 </head>
 <body>
-    <h1><a href="Anime-Nikko/Front/Run.html">For New Members</a></h1>
+    <h1><a href="Front/Run.html">For New Members</a></h1>
         <form action="">
             <h1> NikkoTV Donation Section</h1>
             <p> Required Fields are Followed by * mark</p>
