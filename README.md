@@ -57,6 +57,7 @@
     <img src="img/wp5490849-itachi-aesthetic-desktop-wallpapers.jpg" width="430px" border="7px" alt="this is itachi here">
     <hr width="50%" />
     <a href="eye.html">NikkoTvEyes</a>
+    <a href="/Front/hi.html">NikkoTvEyes</a>
 
 </body>
 </hTML>
